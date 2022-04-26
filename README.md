@@ -1,7 +1,7 @@
 # ProjetoCDIA
 Este é um projeto da disciplina de Introdução a Ciência de Dados, do curso de Ciência de Dados e Inteligência Artificial da Universidade Federal da Paraíba.
 
-## :closed_book :Integrantes
+## :closed_book: Integrantes
 ### Professor:
 - <a href = 'https://github.com/yurimalheiros'> Yuri Malheiros</a>   
 
