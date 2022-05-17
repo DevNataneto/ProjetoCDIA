@@ -19,7 +19,7 @@ Este é um projeto da disciplina de Introdução a Ciência de Dados, do curso d
 - O uso de drogas lícitas (chocolate, café, etc) pode influenciar no consumo de alguma droga ilícita?
 - A etinia ou o genero dos individuos podem estar relacionado ao uso de alguma droga?
 
-## :clapping_hands: Agradecimentos:
+## :clap: Agradecimentos:
 #### Donos originais do database:
 Elaine Fehrman,
 Men's Personality Disorder and National Women's Directorate,
