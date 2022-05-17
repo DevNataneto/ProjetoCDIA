@@ -11,10 +11,10 @@ Este é um projeto da disciplina de Introdução a Ciência de Dados, do curso d
 - <a href = 'https://github.com/DevNataneto/' > Natan Neto</a>      
 
 ## :open_file_folder: Data Sets utilizados:
-- <a href = 'https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016'> Suicide Rates Overview 1985 to 2016 </a>
-- <a href = 'https://www.kaggle.com/datasets/marcospessotto/happiness-and-alcohol-consumption'> Happiness and Alcohol Consumption </a>
+- <a href = 'https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci'> Drug Consumption </a>
 
 ## :question: Perguntas:
-- Quais países possuem maior numero de suicidio em media na população?
-- Quais países são os mais felizes?
-- A felicidade do povo e a quantidade de suicidios estão correlatas?
+
+- A escolaridade de um individuo pode influenciar no consumo de drogas?
+- O uso de drogas lícitas (chocolate, café, etc) pode influenciar no consumo de alguma droga ilícita?
+- A etinia ou o genero dos individuos podem estar relacionado ao uso de alguma droga?
